@@ -1,8 +1,11 @@
-# dio-GFT Start Woman Java
+# dio- Primeiro repositorio criado.
 # Módulo I
 Primeiro repositorio criado para o desafio de projeto
 
 ## Links Uteis
+
+###### Treinando logica de programaçao usando Portugol [Portugal Editor](https://portugol-webstudio.cubos.io)
+
 ###### Git/GitHub [Git/GitHub Downloads](https://git-scm.com/downloads) 
 ###### Instalando no macOS [Como instalar Git/Github on macOS](https://docs.github.com/pt/enterprise-server@3.2/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
